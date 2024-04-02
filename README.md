@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Cabbagebkue
 - 👀 I’m interested in bioinformation analysis
 - 🌱 I’m currently learning EEG signal analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cabbagebkue@163.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Try to learn 
 
 <!---
